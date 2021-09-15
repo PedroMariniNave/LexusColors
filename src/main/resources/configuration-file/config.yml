@@ -1,0 +1,22 @@
+Colors:
+  - 'a'
+  - 'b'
+  - 'c'
+  - 'd'
+  - 'e'
+  - 'f'
+  - '0'
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+
+Messages:
+  invalid-color: '&cA cor escolhida é inválida!'
+  sucessful-changed: '&7Você escolheu a cor {color}!'
+  sucessful-removed: '&cVocê não está mais usando cores!'
